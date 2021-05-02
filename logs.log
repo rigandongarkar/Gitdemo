@@ -1,0 +1,124 @@
+2021-04-30 11:57:49,736 : INFO : test_EndtoEnd : iphone X
+2021-04-30 11:57:49,750 : INFO : test_EndtoEnd : Samsung Note 8
+2021-04-30 11:57:49,764 : INFO : test_EndtoEnd : Nokia Edge
+2021-04-30 11:57:49,777 : INFO : test_EndtoEnd : Blackberry
+2021-04-30 11:57:49,921 : INFO : test_EndtoEnd : Country Selection
+2021-04-30 11:57:55,211 : INFO : test_EndtoEnd : Success Text : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-30 11:58:48,881 : INFO : test_EndtoEnd : iphone X
+2021-04-30 11:58:48,895 : INFO : test_EndtoEnd : Samsung Note 8
+2021-04-30 11:58:48,909 : INFO : test_EndtoEnd : Nokia Edge
+2021-04-30 11:58:48,924 : INFO : test_EndtoEnd : Blackberry
+2021-04-30 11:58:49,089 : INFO : test_EndtoEnd : Country Selection
+2021-04-30 11:58:54,366 : INFO : test_EndtoEnd : Success Text : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-30 11:59:05,783 : INFO : test_FormSubmission : firstname print
+2021-04-30 11:59:05,954 : INFO : test_FormSubmission : email print
+2021-04-30 11:59:06,185 : INFO : test_FormSubmission : firstname print
+2021-04-30 11:59:06,185 : INFO : test_FormSubmission : firstname print
+2021-04-30 11:59:06,218 : INFO : test_FormSubmission : email print
+2021-04-30 11:59:06,218 : INFO : test_FormSubmission : email print
+2021-04-30 11:59:10,025 : INFO : test_EndtoEnd : iphone X
+2021-04-30 11:59:10,039 : INFO : test_EndtoEnd : Samsung Note 8
+2021-04-30 11:59:10,053 : INFO : test_EndtoEnd : Nokia Edge
+2021-04-30 11:59:10,065 : INFO : test_EndtoEnd : Blackberry
+2021-04-30 11:59:10,205 : INFO : test_EndtoEnd : Country Selection
+2021-04-30 11:59:15,447 : INFO : test_EndtoEnd : Success Text : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-30 16:01:19,869 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:01:19,919 : INFO : test_FormSubmission : email print
+2021-04-30 16:01:20,150 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:01:20,150 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:01:20,184 : INFO : test_FormSubmission : email print
+2021-04-30 16:01:20,184 : INFO : test_FormSubmission : email print
+2021-04-30 16:01:24,090 : INFO : test_EndtoEnd : iphone X
+2021-04-30 16:01:24,103 : INFO : test_EndtoEnd : Samsung Note 8
+2021-04-30 16:01:24,117 : INFO : test_EndtoEnd : Nokia Edge
+2021-04-30 16:01:24,131 : INFO : test_EndtoEnd : Blackberry
+2021-04-30 16:01:24,269 : INFO : test_EndtoEnd : Country Selection
+2021-04-30 16:01:29,500 : INFO : test_EndtoEnd : Success Text : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-30 16:03:40,723 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:03:40,768 : INFO : test_FormSubmission : email print
+2021-04-30 16:03:41,000 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:03:41,000 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:03:41,035 : INFO : test_FormSubmission : email print
+2021-04-30 16:03:41,035 : INFO : test_FormSubmission : email print
+2021-04-30 16:03:45,064 : INFO : test_EndtoEnd : iphone X
+2021-04-30 16:03:45,079 : INFO : test_EndtoEnd : Samsung Note 8
+2021-04-30 16:03:45,095 : INFO : test_EndtoEnd : Nokia Edge
+2021-04-30 16:03:45,110 : INFO : test_EndtoEnd : Blackberry
+2021-04-30 16:03:45,260 : INFO : test_EndtoEnd : Country Selection
+2021-04-30 16:03:50,499 : INFO : test_EndtoEnd : Success Text : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-30 16:06:53,561 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:06:53,605 : INFO : test_FormSubmission : email print
+2021-04-30 16:06:53,837 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:06:53,837 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:06:53,870 : INFO : test_FormSubmission : email print
+2021-04-30 16:06:53,870 : INFO : test_FormSubmission : email print
+2021-04-30 16:06:57,495 : INFO : test_EndtoEnd : iphone X
+2021-04-30 16:06:57,510 : INFO : test_EndtoEnd : Samsung Note 8
+2021-04-30 16:06:57,523 : INFO : test_EndtoEnd : Nokia Edge
+2021-04-30 16:06:57,537 : INFO : test_EndtoEnd : Blackberry
+2021-04-30 16:06:57,674 : INFO : test_EndtoEnd : Country Selection
+2021-04-30 16:07:02,951 : INFO : test_EndtoEnd : Success Text : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-30 16:28:11,414 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:28:11,461 : INFO : test_FormSubmission : email print
+2021-04-30 16:28:11,700 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:28:11,700 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:28:11,733 : INFO : test_FormSubmission : email print
+2021-04-30 16:28:11,733 : INFO : test_FormSubmission : email print
+2021-04-30 16:28:15,241 : INFO : test_EndtoEnd : iphone X
+2021-04-30 16:28:15,254 : INFO : test_EndtoEnd : Samsung Note 8
+2021-04-30 16:28:15,267 : INFO : test_EndtoEnd : Nokia Edge
+2021-04-30 16:28:15,280 : INFO : test_EndtoEnd : Blackberry
+2021-04-30 16:28:15,414 : INFO : test_EndtoEnd : Country Selection
+2021-04-30 16:28:20,647 : INFO : test_EndtoEnd : Success Text : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-30 16:28:46,560 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:28:46,601 : INFO : test_FormSubmission : email print
+2021-04-30 16:28:46,840 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:28:46,840 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:28:46,874 : INFO : test_FormSubmission : email print
+2021-04-30 16:28:46,874 : INFO : test_FormSubmission : email print
+2021-04-30 16:28:50,274 : INFO : test_EndtoEnd : iphone X
+2021-04-30 16:28:50,287 : INFO : test_EndtoEnd : Samsung Note 8
+2021-04-30 16:28:50,301 : INFO : test_EndtoEnd : Nokia Edge
+2021-04-30 16:28:50,315 : INFO : test_EndtoEnd : Blackberry
+2021-04-30 16:28:50,456 : INFO : test_EndtoEnd : Country Selection
+2021-04-30 16:28:55,683 : INFO : test_EndtoEnd : Success Text : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-30 16:42:56,777 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:42:56,820 : INFO : test_FormSubmission : email print
+2021-04-30 16:42:57,053 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:42:57,053 : INFO : test_FormSubmission : firstname print
+2021-04-30 16:42:57,086 : INFO : test_FormSubmission : email print
+2021-04-30 16:42:57,086 : INFO : test_FormSubmission : email print
+2021-04-30 16:43:00,581 : INFO : test_EndtoEnd : iphone X
+2021-04-30 16:43:00,596 : INFO : test_EndtoEnd : Samsung Note 8
+2021-04-30 16:43:00,610 : INFO : test_EndtoEnd : Nokia Edge
+2021-04-30 16:43:00,623 : INFO : test_EndtoEnd : Blackberry
+2021-04-30 16:43:00,781 : INFO : test_EndtoEnd : Country Selection
+2021-04-30 16:43:06,043 : INFO : test_EndtoEnd : Success Text : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-30 17:12:49,260 : INFO : test_FormSubmission : firstname print
+2021-04-30 17:12:49,306 : INFO : test_FormSubmission : email print
+2021-04-30 17:12:49,555 : INFO : test_FormSubmission : firstname print
+2021-04-30 17:12:49,555 : INFO : test_FormSubmission : firstname print
+2021-04-30 17:12:49,590 : INFO : test_FormSubmission : email print
+2021-04-30 17:12:49,590 : INFO : test_FormSubmission : email print
+2021-04-30 17:12:53,008 : INFO : test_EndtoEnd : iphone X
+2021-04-30 17:12:53,022 : INFO : test_EndtoEnd : Samsung Note 8
+2021-04-30 17:12:53,036 : INFO : test_EndtoEnd : Nokia Edge
+2021-04-30 17:12:53,050 : INFO : test_EndtoEnd : Blackberry
+2021-04-30 17:12:53,191 : INFO : test_EndtoEnd : Country Selection
+2021-04-30 17:12:58,440 : INFO : test_EndtoEnd : Success Text : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-02 00:43:48,840 : INFO : test_FormSubmission : firstname print
+2021-05-02 00:47:05,704 : INFO : test_FormSubmission : firstname print
+2021-05-02 00:48:50,472 : INFO : test_FormSubmission : firstname print
+2021-05-02 00:49:11,079 : INFO : test_FormSubmission : firstname print
+2021-05-02 00:49:24,823 : INFO : test_FormSubmission : firstname print
+2021-05-02 00:49:24,866 : INFO : test_FormSubmission : email print
