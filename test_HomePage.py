@@ -28,3 +28,10 @@ class TestHomePage(BaseClass):
     @pytest.fixture(params=HomePageData.getTestData("tc3"))
     def getData(self, request):
         return request.param
+
+# Checking updating on Git
+# Checking updating on Git
+# Checking updating on Git
+# Checking updating on Git
+# Checking updating on Git
+# Checking updating on Git
