@@ -9,6 +9,8 @@ from pageObjects.HomePage import HomePage
 from pageObjects.checkoutPage import CheckoutPage
 
 
+# updating from x user
+
 class TestOne(BaseClass):
     def test_EndtoEnd(self):
         log = self.getLogger()
